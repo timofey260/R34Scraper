@@ -1,0 +1,4 @@
+requests~=2.33.0
+selenium~=4.41.0
+pyperclip~=1.11.0
+undetected-geckodriver
