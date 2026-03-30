@@ -13,6 +13,6 @@ git clone https://github.com/timofey260/R34Scraper
 cd R34Scraper
 python -m venv .venv
 source .venv/activate
-python -m pip install -r requirements
+python -m pip install -r requirements.txt
 python main.py
 ```
